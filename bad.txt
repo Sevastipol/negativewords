@@ -774,6 +774,7 @@ crooks
 crowded
 crowdedness
 crude
+crazy
 cruel
 crueler
 cruelest
@@ -1079,6 +1080,7 @@ dinky
 dire
 direly
 direness
+dysfunctional
 dirt
 dirtbag
 dirtbags
