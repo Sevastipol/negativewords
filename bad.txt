@@ -10,6 +10,7 @@ aborts
 abrade
 abrasive
 abrupt
+greedy
 abruptly
 abscond
 absence
@@ -1446,6 +1447,8 @@ embarrassing
 embarrassingly
 embarrassment
 embattled
+loser
+STUPID
 embroil
 embroiled
 embroilment
