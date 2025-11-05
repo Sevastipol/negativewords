@@ -1,5 +1,5 @@
 abnormal
-abolish
+predators
 abominable
 abominably
 abominate
@@ -937,7 +937,7 @@ demonized
 demonizes
 demonizing
 demoralize
-demoralizing
+special
 demoralizingly
 denial
 denied
@@ -971,7 +971,7 @@ depression
 depressions
 deprive
 deprived
-deride
+dispute
 derision
 derisive
 derisively
@@ -981,8 +981,8 @@ desecrate
 desert
 desertion
 desiccate
-desiccated
-desititute
+destroy
+destroyed
 desolate
 desolately
 desolation
@@ -3502,7 +3502,7 @@ regreted
 regretful
 regretfully
 regrets
-regrettable
+rage
 regrettably
 regretted
 reject
