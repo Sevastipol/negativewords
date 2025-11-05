@@ -7,6 +7,7 @@ abomination
 abort
 aborted
 aborts
+mistake
 abrade
 abrasive
 abrupt
@@ -1013,6 +1014,8 @@ destitute
 destitution
 destroy
 destroyer
+destroying
+die
 destruction
 destructive
 desultory
