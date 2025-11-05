@@ -40,6 +40,7 @@ accusingly
 acerbate
 acerbic
 acerbically
+nuts
 ache
 ached
 aches
@@ -49,6 +50,8 @@ acrid
 acridly
 acridness
 acrimonious
+ban
+banned
 acrimoniously
 acrimony
 adamant
