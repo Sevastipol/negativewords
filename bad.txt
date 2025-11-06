@@ -1096,7 +1096,7 @@ dirt
 dirtbag
 dirtbags
 dirts
-dirty
+ugly
 disable
 disabled
 disaccord
