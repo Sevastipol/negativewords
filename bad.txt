@@ -1,200 +1,1352 @@
-exposed
-canceled
-demonetized
-shadowbanned
-drama
-scam
-fraud
-clickbait
-grifter
-copycat
-plagiarized
-caught
-stealing
-fake
-lying
-hypocrite
+abandon
+abandoned
+abandoning
+abuse
+abused
+abusing
+abusive
+accident
+accidental
+accusing
+accused
+addiction
+addicted
+addict
+afraid
+aggressive
+aggression
+agony
+alarming
+alienated
+allegation
+allegations
+assault
+assaulted
+attacked
+attacker
+attacking
+attack
+atrocious
+atrocity
+awful
+awkward
 backlash
+backstab
+backstabbed
+backstabbing
+bad
+banned
+ban
+banning
+bankrupt
+bankruptcy
+betrayal
+betrayed
+betraying
+betray
+bitter
+blackmail
+blackmailed
+blackmailing
+blame
+blamed
+blaming
+bleak
+blood
+bloody
+bomb
+bombed
+bombing
+brawl
+brutal
+brutality
+bully
+bullied
+bullying
+burned
+burning
+cancel
+canceled
+cancelled
+canceling
+cancellation
+censored
+censor
+censorship
+chaos
+chaotic
+cheat
+cheated
+cheating
+cheater
+clash
+clashed
+clashing
+collapse
+collapsed
+collapsing
+controversial
+controversy
+convicted
+conviction
+corrupt
+corruption
+crash
+crashed
+crashing
+crime
+criminal
+cringe
+cringey
+cruel
+cruelty
+crying
+crisis
+catastrophe
+catastrophic
+cataclysmic
+danger
+dangerous
+dead
+deadly
+death
+deaths
+deceased
+deception
+deceptive
+deceiving
+deceived
+degrade
+degraded
+degrading
+demon
+demonic
+demonetized
+demonetised
+demonetization
+demonetisation
+depressed
+depressing
+depression
+desperate
+despair
+despicable
+destroy
+destroyed
+destroying
+destruction
+devastated
+devastating
+disaster
+disastrous
+disgrace
+disgraced
+disgraceful
+disgusting
+disgust
+disturb
+disturbing
+disturbed
+distressing
+divisive
+divorce
+divorced
+divorcing
+doomed
+doom
+drama
+dramatic
+draining
+dumb
+dumbest
+dumped
+dumping
+dying
+died
+embarrassed
+embarrassing
+embarrassment
+enemy
+enraged
+exposed
+exposing
+exposure
+exploit
+exploited
+exploiting
+exploitation
+extortion
+extorting
+extorted
+failure
+failed
+failing
+fake
+faked
+faking
+faker
+false
+falsely
+fatal
+fired
+firing
+fight
+fighting
+fighting
+flee
+fled
+fleeing
+forced
+forcing
+fraud
+fraudster
+fraudulent
+fraudulent
+freak
+freaking
+freakout
+frightening
+frightened
+frustrating
+frustrated
+frustration
+furious
+fury
+guilty
+guilt
+gun
+guns
+gunshot
+gunfire
+gunman
+gunmen
+guns
+hacked
+hacker
+hackers
+hacking
+harass
+harassed
+harassing
+harassment
+hate
+hated
+hateful
+hating
+hatred
+heinous
+hell
+hellish
+hijacked
+hijacking
+horrible
+horrific
+horrifying
+horror
+hostile
+hostility
+humiliated
+humiliating
+humiliation
+hypocrite
+hypocritical
+ignorant
+idiot
+idiotic
+idiots
+illegal
+illegally
+imprisoned
+imprisonment
+incest
+injured
+injury
+injuries
+insane
+insanity
+insensitive
+insufferable
+insult
+insulted
+insulting
+intimidating
+intimidation
+infuriating
+jealous
+jealousy
+kicked
+kicking
+kill
+killed
+killer
+killing
+killings
+lawsuit
+lawsuits
+lied
+lies
+lying
+liar
+loser
+losing
+loss
+lost
+manipulate
+manipulated
+manipulating
+manipulation
+malicious
+murder
+murdered
+murderer
+murdering
+narcissist
+narcissistic
+neglect
+neglected
+neglecting
+nightmare
+nightmares
+obscene
+offended
+offending
+offensive
+outrage
+outraged
+outrageous
+panic
+panicking
+pathetic
+persecuted
+persecution
+plagiarism
+plagiarized
+plagiarised
+plagiarist
+poison
+poisoned
+poisoning
+predator
+predatory
+problem
+problematic
+protest
+protested
+protesting
+provocative
+punished
+punishing
+punishment
+racist
+racism
+rape
+raped
+rapist
+raping
+rejected
+rejecting
+rejection
+remorse
+revenge
+revengeful
+ridiculous
+ridicule
+ridiculing
+riot
+rioting
+robbed
+robbery
+robber
+ruined
+ruining
+ruin
+rude
+ruthless
+scam
+scammed
+scammer
+scamming
+scandal
+scandalous
+scandalized
+scandalised
+scary
+selfish
+selfishness
+sensitive
+shamed
+shaming
+shocking
+shocked
+shock
+shocking
+shoot
+shot
+shooting
+shootings
+sick
+sickness
+silenced
+silencing
+slander
+slandered
+slanderous
+slaughter
+slaughtered
+slave
+slavery
+smear
+smeared
+sociopath
+stabbed
+stabbing
+stalk
+stalked
+stalker
+stalking
+starving
+starvation
+steal
+stolen
+stealing
+stole
+stupid
+stupidity
+suicide
+suicidal
+sued
+suing
+sue
+suspended
+suspension
+suspicious
+terror
+terrorist
+terrorism
+terrifying
+threat
+threatened
+threatening
+torture
+tortured
+torturing
+toxic
+toxicity
+trauma
+traumatic
+traumatized
+traumatizing
+treason
+treasonous
+tricked
+trick
+tricking
+triggered
+triggering
+trouble
+troubled
+ugly
+unbearable
+uncensored
+unhinged
+unstable
+unsettling
+violent
+violence
+victim
+victimized
+victimizing
+vile
+vindictive
+war
+warfare
+weapon
+weapons
+weak
+weirdo
+weird
+worst
+worse
+wounded
+wounding
+wrecked
+wrecking
+wrong
+wrongdoing
+wrongful
+yelled
+yelling
+abysmal
+abhorrent
+arrogant
+atrocity
+bastard
+beaten
+beating
+betrayer
+boycott
+boycotted
+boycotting
+brainless
+clueless
+coward
+cowardly
+crazy
+criminal
+degenerate
+delusional
+deplorable
+despicable
+disgusting
+dysfunctional
+egotistical
+evil
+failure
+fool
+foolish
+foolishness
+fraud
+greedy
+greed
+gross
+grotesque
+hypocrite
+hypocrisy
+ignorance
+insane
+insidious
+jerk
+lunatic
+mad
+manipulator
+merciless
+moron
+moronic
+nasty
+narcissist
+pathetic
+pervert
+perverted
+psychopath
+psychotic
+repugnant
+rotten
+savage
+shame
+shameless
+sociopath
+terrible
+trash
+trashiest
+trash
+ugliest
+vicious
+villain
+villainous
+vulgar
+wretched
+cancelled
+cancellation
+career-ending
+career ending
+caught
+caught lying
+caught cheating
+caught stealing
+caught red-handed
+exposed
+fully exposed
+finally exposed
+secret exposed
+truth exposed
+dark secret
+hidden truth
+shocking truth
+disturbing truth
+terrible mistake
+huge mistake
+massive mistake
+big mistake
+fatal mistake
+worst mistake
+embarrassing mistake
+stupid mistake
+terrible decision
+bad decision
+worst decision
+disastrous decision
+horrible decision
+failed miserably
+complete failure
+total failure
+epic failure
+massive failure
+complete disaster
+absolute disaster
+total disaster
+huge disaster
+major disaster
+worst ever
+worst day
+worst year
+worst decision
+worst mistake
+worst experience
+shocking
+shocking revelation
+shocking discovery
+shocking allegations
+shocking accusation
+shocking incident
+disturbing
+disturbing footage
+disturbing video
+disturbing images
+disturbing story
+disturbing discovery
+graphic
+graphic footage
+graphic content
+graphic images
+graphic violence
+uncensored
+uncut
+NSFW
+not safe for work
+18+
+explicit
+sexual
+sex
+porn
+pornography
+nude
+nudity
+naked
+rape
+abuse
+abusive
+violence
+violent
+gore
+gory
+blood
+bloody
+murder
+murdered
+murderer
+death
+dead
+dying
+suicide
+self harm
+self-harm
+drug
+drugs
+overdose
+overdosed
+addiction
+addicted
+alcohol
+drunk
+drinking
+smoking
+cocaine
+heroin
+meth
+fentanyl
+weapon
+weapons
+gun
+guns
+rifle
+pistol
+shooting
+shootout
+bomb
+bombing
+explosive
+explosion
+terrorist
+terrorism
+hostage
+hostages
+kidnap
+kidnapped
+kidnapping
+assault
+attack
+attacked
+stabbing
+stabbed
+arrested
+arrest
+police
+police raid
+raid
+prison
+jail
+jailed
+convicted
+conviction
+lawsuit
+sued
+suing
+court
+court case
+legal trouble
+criminal charges
+charged
+indicted
+investigation
+investigated
+investigating
+investigation
+corruption
+corrupt
+scam
+scammer
+fraud
+fraudster
+ponzi
+pyramid scheme
+fake giveaway
+fake product
+fake website
+fake news
+misinformation
+disinformation
+propaganda
+conspiracy
+conspiracy theory
+cover-up
+coverup
+cover up
+secret
+leaked
+leak
+leaks
+leaked footage
+leaked video
+leaked messages
+private messages
+private photos
+revenge
+revenge porn
+doxxed
+doxxing
+dox
+swatted
+swatting
+hacked
+hacker
+hackers
+hacking
+account hacked
+account stolen
+identity theft
+stolen identity
+copyright
+copyright strike
+copyright strikes
+copyright claim
+copyright claimed
+strike
+strikes
+community guidelines
+guidelines violation
+terms violation
+violation
+banned
+ban
+banning
+suspended
+suspension
+terminated
+termination
+deleted
+deletion
+removed
+removed from
+taken down
+taken down by
+censored
+censorship
+demonetized
+demonetised
+demonetization
+demonetisation
+shadowbanned
+shadowban
+algorithm
+algorithm punishment
+limited ads
+limited monetization
+limited monetisation
+age restricted
+age restriction
+restricted
+flagged
+reported
+report
+mass reported
+mass reporting
+cancelled
+canceled
+cancellation
+cancel culture
+backlash
+public backlash
+internet backlash
+online backlash
+internet outrage
+online outrage
+outrage
+outrageous
+drama
+internet drama
+youtube drama
+creator drama
+beef
+feud
+rivalry
+controversy
+controversial
+controversial opinion
+hot take
+hot takes
+unpopular opinion
+divisive
+polarizing
+polarising
+political
+politics
+politician
+election
+elections
+government
+corruption
+scandal
+scandalous
+exposed
+exposed himself
+exposed herself
+exposed them
+called out
+called-out
+callout
+call out
+debunked
+debunk
+debunking
+fact check
+fact-check
+factchecked
+proven wrong
+wrong
+wrongly
+false
+false claims
+false accusation
+false allegations
+lies
+lying
+liar
+lied
+deceived
+deception
+deceptive
+misleading
+misled
+manipulative
+manipulation
+gaslighting
+gaslight
+gaslit
+hypocrite
+hypocrisy
+double standard
+two faced
+two-faced
+backstabbing
+betrayal
+betrayed
+betrayer
+traitor
+treason
+treasonous
+fake apology
+forced apology
+public apology
 apology
+apologized
+apologised
+regret
+regrets
+mistake
+mistakes
+error
+errors
+failure
+failed
+failing
+fails
+fail
+loser
+losing
+lost
 ruined
 destroyed
-doomed
-spiraling
-unhinged
-worst
-terrible
-awful
-toxic
-hostile
-cruel
-evil
-vile
-greedy
-selfish
-desperate
-insufferable
-unbearable
-cringe
-triggering
-infuriating
-controversial
-polarizing
-scandalous
-disturbing
-alarming
-unsettling
-terrifying
-catastrophic
-disastrous
-atrocious
-abhorrent
-suing
-forcing
-coercing
-blackmailing
-extorting
-manipulating
-exploiting
-gaslighting
-harassing
-stalking
-bullying
-threatening
-punishing
-attacking
-accusing
-blaming
-criticizing
-condemning
-penalizing
-arrested
-detained
-imprisoned
-banned
-prohibited
-restricted
-forbidden
-censored
-silenced
-fired
-quitting
-suspended
-expelled
-evicted
-confiscated
-seized
-hijacked
-hacked
-breached
-violated
-infringed
-offending
-humiliated
-shamed
-degrading
-devaluing
-abandoning
-neglecting
-ignoring
-discarding
-dumping
-deplorable
-cataclysmic
-draconian
-insidious
-vitriolic
-heinous
-grotesque
-abysmal
-repugnant
-parasitic
-sociopath
-narcissist
-delusional
-pathetic
-backstabbing
-treasonous
-betraying
-deceiving
-sabotaging
-undermining
-marginalized
-alienated
-ostracized
-boycotted
-flagged
-terminated
-deleted
-devastating
-crushing
-demolishing
+destroying
+destroy
+wrecked
 wrecking
+crushed
+crushing
+demolished
+demolishing
+shattered
 shattering
-fracturing
-mocking
-taunting
-teasing
-ridiculing
-depriving
-starving
-exhausting
-draining
-fatiguing
-burdening
-pressuring
-stressing
-traumatizing
-wounding
-injuring
-suffering
-tormenting
-torturing
-agonizing
-clashing
-quarreling
-arguing
-disputing
-rebelling
-protesting
-striking
-surrendering
-withdrawing
-retreating
-fleeing
-concealing
-feigning
-counterfeiting
-forging
-snaring
+collapsed
+collapse
+disaster
+disastrous
+doomed
+dooming
+spiraling
+spiralling
+meltdown
+breakdown
+breakup
+broke up
+divorced
+divorce
+quitting
+quit
+resigned
+resignation
+fired
+fired from
+firing
+laid off
+layoff
+layoffs
+jobless
+unemployed
+unemployment
+bankrupt
+bankruptcy
+debt
+debts
+broke
+poverty
+homeless
+homelessness
+evicted
+eviction
+foreclosed
+foreclosure
+stolen
+stealing
+thief
+thieves
+theft
+robbed
+robbery
+burglary
+burglar
+shoplifting
+cheating
+cheated
+cheater
+cheaters
+copycat
+copied
+copying
+plagiarism
+plagiarized
+plagiarised
+stolen content
+stolen video
+stolen idea
+ripoff
+rip-off
+ripped off
+knockoff
+knock-off
+counterfeit
+fake
+faker
+fraud
+scam
+scammer
+scamming
+clickbait
+clickbaiting
+bait
+ragebait
+rage bait
+engagement bait
+grifter
+grifting
+con artist
+conman
+con
+scheme
+scheming
+exploiting
+exploitation
+predatory
+predator
+grooming
+groomer
+groomed
+harassment
+harassed
+harassing
+bullying
+bullied
+bully
+stalking
+stalker
+stalked
+threat
+threatening
+threatened
+death threat
+rape threat
+violent threat
+doxxing
+doxxed
+swatting
+swatted
+blackmail
+blackmailed
+blackmailing
+extortion
+extorted
+extorting
+coercion
+coercing
+forced
+forcing
+manipulating
+manipulated
+manipulation
+gaslighting
+gaslit
+exploiting
+exploited
+exploitation
+abandonment
+abandoned
+neglected
+neglect
+neglecting
+isolated
+isolation
+ostracized
+ostracised
+alienated
+marginalized
+marginalised
+discriminated
+discrimination
+racist
+racism
+sexist
+sexism
+homophobic
+homophobia
+transphobic
+transphobia
+antisemitic
+antisemitism
+extremist
+extremism
+radical
+radicalized
+radicalised
+cult
+cult leader
+brainwashed
+brainwashing
+indoctrinated
+indoctrination
+evil
+evil person
+evil genius
+evil act
+evil behavior
+evil behaviour
+dark
+dark side
+dark secret
+dark truth
+dark history
+disturbing
+terrifying
+terrible
+horrible
+awful
+horrific
+horror
+nightmare
+nightmarish
+scary
+scariest
+creepy
+creepiest
+creep
+creepy
+unsettling
+disturbing
+distressed
+distress
+traumatized
+traumatized
+trauma
+triggered
+triggering
+trigger warning
+sensitive
+sensitive topic
+mental breakdown
+breakdown
+meltdown
+panic attack
+panic
+anxiety
+anxious
+depressed
+depression
+suicidal
+suicide
+self harm
+self-harm
+eating disorder
+bulimia
+anorexia
+overdose
+addiction
+addicted
+withdrawal
+psychotic
+psychosis
+schizophrenic
+delusional
+delusion
+narcissist
+narcissistic
+sociopath
+psychopath
+antisocial
+insane
+insanity
+crazy
+lunatic
+deranged
+unhinged
+unstable
+disturbed
+disturbing
+pathetic
+stupid
+dumb
+idiot
+idiotic
+moron
+moronic
+ignorant
+ignorance
+clueless
+brainless
+brain dead
+loser
+failure
+failure of
+worst
+worse
+terrible
+horrible
+awful
+atrocious
+abysmal
+deplorable
+disgraceful
+disgusting
+disgust
+gross
+vile
+evil
+cruel
+cruelty
+toxic
+toxicity
+hostile
+hostility
+aggressive
+aggression
+violent
+violence
+brutal
+brutality
+ruthless
+merciless
+savage
+vicious
 malicious
 vindictive
-ruthless
-savage
-brutal
-merciless
 arrogant
+selfish
+greedy
+greed
+desperate
+pathetic
+insufferable
+unbearable
+annoying
+annoyed
+annoyance
+infuriating
+infuriated
+frustrating
+frustrated
+frustration
+ridiculous
+ridicule
+mocking
+mocked
+mockery
+taunting
+teasing
+roasting
+roasted
+humiliated
+humiliation
+embarrassing
+embarrassed
+embarrassment
+shame
+shamed
+shaming
+shameless
+degrading
+degraded
+insult
+insulted
+insulting
+offensive
+offended
+offending
 ignorant
-dumb
-stupid
-ugly
-bad
-hate
-bitter
-resentful
-jealous
-envious
-spiteful
-petty
-cowardly
-weak
-miserable
-depressing
-bleak
-grim
+ignorance
+hypocrite
+hypocrisy
+two-faced
+fake
+phony
+fraud
+fraudulent
+dishonest
+dishonesty
+liar
+lying
+lies
+deceit
+deception
+deceptive
+betrayal
+betrayed
+betraying
+traitor
+backstabber
+backstabbing
+sabotage
+sabotaged
+sabotaging
+undermining
+undermined
+destroyed
+ruined
+wrecked
+failed
+failure
+disaster
+disastrous
+catastrophic
+catastrophe
 tragic
+tragedy
 fatal
 deadly
-destructive
-rotten
-failure
-loser
+dead
+death
+dying
+injured
+injury
+wounded
+wound
+suffering
+suffered
+suffering
+pain
+painful
+agony
+agonizing
+agonising
+torment
+tormented
+torture
+tortured
+torturing
+starving
+starvation
+deprived
+depriving
+exhausted
+exhausting
+drained
+draining
+stressed
+stress
+stressful
+pressured
+pressure
+overwhelmed
+overwhelming
+crisis
+emergency
+disaster
+catastrophe
+chaos
+chaotic
+panic
+panic
+fear
+afraid
+terrified
+terrifying
+horrifying
+horrified
+danger
+dangerous
+deadly
+fatal
+threat
+threatening
+warning
+warned
+beware
+avoid
+never
+don't
+do not
+worst
+warning
+viewer discretion
+discretion advised
+sensitive content
+disturbing content
+graphic content
+mature content
+explicit content
